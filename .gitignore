@@ -1,0 +1,6 @@
+_ReSharper*
+*.docstates
+*.secret.config
+bin
+obj
+*.user
